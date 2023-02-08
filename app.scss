@@ -1,0 +1,17 @@
+$primary: #003E7A;
+$secondary: #FFDE74;
+
+@import 'scss/bootstrap';
+
+btn.primary {
+  $border-color: #CFDEE7;
+  $padding: 1em;
+  $margin: 1em;
+}
+
+btn.secondary {
+  $border-color: #92B4F4;
+  $padding: 1em;
+  $margin: 1em;
+}
+
